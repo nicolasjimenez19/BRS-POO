@@ -1,2 +1,12 @@
 println(Inserte enlace descarga git hub)
 https://git-scm.com/download/win
+1. Una biblioteca tiene un nombre (tipo String) y una colección de libros. Se requiere que la biblioteca tenga un constructor que reciba como parámetros el nombre de la biblioteca e inicialice la colección de libros. La biblioteca posee los siguientes métodos:
+
+-Añadir libro que permite agregar un libro a la colección de libros de la biblioteca.
+
+-Listar libros que muestra en pantalla los datos de todos los libros de la biblioteca invocando el método imprimir de los libros.
+
+Cada libro tiene los siguientes datos: título (tipo String), autor (tipo String), año de publicación (tipo int), editorial (tipo String), referencia bibliográfica (tipo String). El libro debe tener un constructor que inicialice sus atributos y un método imprimir que muestre los valores de sus atributos en pantalla. Se requiere implementar una clase de prueba que instancie una biblioteca denominada “Biblioteca Nacional” y añada a la biblioteca los siguientes libros de la tabla.
+
+
+
